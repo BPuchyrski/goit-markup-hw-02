@@ -55,3 +55,12 @@ body {
   line-height: 36px;
   color: #212121;
 }
+.footer-adres {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24px;
+}
+.footer-adres a {
+  color: #ffffff99;
+  text-decoration: none;
+}
