@@ -96,3 +96,29 @@ body {
   font-size: 14px;
   line-height: 1.71;
 }
+.team h2 {
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  font-weight: 700;
+}
+
+.team p {
+  font-size: 16px;
+  line-height: 1.17;
+  text-align: center;
+  color: #757575;
+}
+.team p:first-child {
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.17;
+  color: #212121;
+}
+.job h2 {
+  text-align: center;
+  line-height: 1.17;
+  font-size: 36px;
+  font-weight: 700;
+}
