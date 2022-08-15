@@ -31,6 +31,7 @@ body {
   text-align: center;
   background-color: #f5f4fa;
   border-radius: 4px;
+  cursor: pointer;
 }
 .menu button:hover,
 .menu button:focus {
