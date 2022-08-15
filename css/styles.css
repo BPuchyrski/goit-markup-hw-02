@@ -65,3 +65,34 @@ body {
   color: #ffffff99;
   text-decoration: none;
 }
+.order-btn {
+  font-weight: 700;
+  font-size: 16px;
+  font-weight: 1.88;
+  text-align: center;
+  color: #ffffff;
+  background-color: #2196f3;
+  border-radius: 4px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+.main-header {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  color: #ffffff;
+}
+.header-back {
+  background-color: #2f303a;
+}
+.description h3 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.17;
+}
+.description p {
+  color: #757575;
+  font-size: 14px;
+  line-height: 1.71;
+}
