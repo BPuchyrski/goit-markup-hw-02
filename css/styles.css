@@ -1,3 +1,57 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #212121;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  color: #000000;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 30.52px;
+}
+.logo > span {
+  color: #2196f3;
+}
+.navi a {
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 16.41px;
+  font-size: 14px;
+  color: #212121;
+}
+.navi a:hover,
+.navi a:focus {
+  color: #2196f3;
+}
+.menu button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  background-color: #f5f4fa;
+  border-radius: 4px;
+}
+.menu button:hover,
+.menu button:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.contact a {
+  color: #757575;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16.41px;
+  text-decoration: none;
+}
+.projects p {
+  color: #757575;
+  size: 16px;
+  line-height: 30px;
+}
+.projects p[title] {
+  font-weight: 700;
+  size: 18px;
+  line-height: 36px;
+  color: #212121;
 }
