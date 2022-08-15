@@ -140,3 +140,7 @@ body {
 .logo-footer > span {
   color: #2196f3;
 }
+.footer-adres a:hover,
+.footer-adres a:focus {
+  color: #2196f3;
+}
