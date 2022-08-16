@@ -72,9 +72,16 @@ body {
   font-size: 14px;
   line-height: 1.71;
 }
-.footer-adres a {
+.footer-adres {
   color: #ffffff99;
   text-decoration: none;
+}
+.footer-adres:hover,
+.footer-adres:focus {
+  color: var(--blue);
+}
+.adress-footer {
+  color: var(--white);
 }
 .order-btn {
   font-weight: 700;
@@ -97,37 +104,37 @@ body {
 .header-back {
   background-color: #2f303a;
 }
-.description h3 {
+.description-head {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.17;
 }
-.description p {
+.description {
   color: #757575;
   font-size: 14px;
   line-height: 1.71;
 }
-.team h2 {
+.our-team {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
   font-weight: 700;
 }
 
-.team p {
+.work-as {
   font-size: 16px;
   line-height: 1.17;
   text-align: center;
   color: var(--lightgray);
 }
-.team p:first-child {
+.worker-name {
   font-weight: 500;
   font-size: 16px;
   text-align: center;
   line-height: 1.17;
   color: var(--gray);
 }
-.job h2 {
+.our-job {
   text-align: center;
   line-height: 1.17;
   font-size: 36px;
@@ -144,10 +151,10 @@ body {
   font-size: 26px;
   line-height: 1.17;
 }
-.logo-footer > span {
+.logo-footer-web {
   color: var(--blue);
 }
-.footer-adres a:hover,
-.footer-adres a:focus {
+.footer-adres:hover,
+.footer-adres:focus {
   color: var(--blue);
 }
