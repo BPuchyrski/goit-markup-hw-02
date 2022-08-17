@@ -68,7 +68,6 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
-  color: var(--gray);
 }
 .footer-adres {
   color: var(--white);
@@ -135,7 +134,6 @@ body {
   font-size: 16px;
   text-align: center;
   line-height: 1.17;
-  color: var(--gray);
 }
 .our-job {
   text-align: center;
